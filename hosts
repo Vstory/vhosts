@@ -1,6 +1,7 @@
 # This hosts file contains exported entries from AdAway.
 #version=20161117AM08
 #url=https://github.com/Vstory/vhosts
+#url=https://raw.githubusercontent.com/Vstory/vhosts/master/更新日志
 127.0.0.1 dz.njq.net
 127.0.0.1 wwwimg.zg71.com
 127.0.0.1 m.longtengxsw.com
