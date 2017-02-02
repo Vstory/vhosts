@@ -1,9 +1,8 @@
-#version=20170128P1303
+#version=20170202P2009
 #url=https://github.com/Vstory/vhosts
-#https://raw.githubusercontent.com/Vstory/vhosts/master/update
+#url=https://raw.githubusercontent.com/Vstory/vhosts/master/update
 127.0.0.1 www.kslldq.cn
 127.0.0.1 www.dafacw.cc
-127.0.0.1 u.155.com
 127.0.0.1 down.360safe.com
 127.0.0.1 web.52pk.com
 127.0.0.1 avgirl03.com
@@ -20,14 +19,17 @@
 127.0.0.1 adver.qq.com
 127.0.0.1 adservice.zplay.cn
 127.0.0.1 51findfriend.com
+127.0.0.1 910app.com
 127.0.0.1 gc.hgame.com
 127.0.0.1 table.yong9.com.cn
 127.0.0.1 cmbackup.cmcm.com
 127.0.0.1 ssr-cp.mengniu.com.cn
 127.0.0.1 m.050bbb.com
 127.0.0.1 partners.uber.com.cn
+127.0.0.1 tools.2345.com
 127.0.0.1 m.smzdm.com
 127.0.0.1 xykstatic.cmbchina.com
+127.0.0.1 www.javplay.com
 127.0.0.1 www.shitangren.com
 127.0.0.1 script.360doc.cn
 127.0.0.1 m.sjzhushou.com
@@ -67,7 +69,6 @@
 127.0.0.1 www.duoqu124.com
 127.0.0.1 www.icdz8.net
 127.0.0.1 www.x1360.com
-127.0.0.1 qzonestyle.gtimg.cn
 127.0.0.1 m.picsinfog.com
 127.0.0.1 j.uniformcat.com
 127.0.0.1 life.html5.qq.com
@@ -94,7 +95,7 @@
 127.0.0.1 st.dp.ksmobile.com
 127.0.0.1 nm7xq628.click
 127.0.0.1 www.520hghg.com
-127.0.0.1 wcj.gaodun.cn
+127.0.0.1 in.nmqbg.com
 127.0.0.1 www.lovetoytw.com
 127.0.0.1 openbox.mobilem.360.cn
 127.0.0.1 www.ihuikou.net
@@ -138,6 +139,7 @@
 127.0.0.1 neutral.i-creative.cn
 127.0.0.1 movie.weibo.com
 127.0.0.1 c73.yiwujieli.com
+127.0.0.1 www.xiaoniu88.com
 127.0.0.1 p2.pstatp.com
 127.0.0.1 iospage.70km.net
 127.0.0.1 yg.c876.cc
@@ -145,7 +147,7 @@
 127.0.0.1 wap.faloo.com
 127.0.0.1 m.linghit.com
 127.0.0.1 wap.52pk.com
-127.0.0.1 web.moxiulive.com
+127.0.0.1 fq.1116.dddmf.com.cn
 127.0.0.1 pc.66166686.com
 127.0.0.1 www.408vip.com
 127.0.0.1 m.autohome.com.cn
@@ -191,13 +193,14 @@
 127.0.0.1 dialer.cdn.cootekservice.com
 127.0.0.1 110823.erppos.cn
 127.0.0.1 www.84kl.com
+127.0.0.1 m.kloonn.com
 127.0.0.1 1.baidu.com
 127.0.0.1 a.cn.duoyi.com
 127.0.0.1 tiaj1.ggymob.com
 127.0.0.1 cdn.bootcss.com
 127.0.0.1 m.sohu.com
 127.0.0.1 www.e-lifemall.com
-127.0.0.1 adsense.html5.qq.com
+127.0.0.1 static.yximgs.com
 127.0.0.1 www.594hu.com
 127.0.0.1 hao360so.cn
 127.0.0.1 m.bdqn-hf.com
@@ -223,6 +226,7 @@
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 teslacoilsw.com
 127.0.0.1 gmtw.wzflourish.com
+127.0.0.1 xmks.iyushan.cc
 127.0.0.1 www.8k018.com
 127.0.0.1 apk.shouji.koowo.com
 127.0.0.1 7xl9wf.com2.z0.glb.qiniucdn.com
@@ -230,6 +234,7 @@
 127.0.0.1 monitor.uu.qq.com
 127.0.0.1 touch.youyuan.com
 127.0.0.1 act.vip.xunlei.com
+127.0.0.1 wcj.gaodun.cn
 127.0.0.1 img.zhainanfulishe.net
 127.0.0.1 q.re123.cn
 127.0.0.1 etl.xlmc.sandai.net
@@ -290,6 +295,7 @@
 127.0.0.1 m.txtshu365.com
 127.0.0.1 vapi.youku.com
 127.0.0.1 m.alisinak.com
+127.0.0.1 res.yiyun.download.q-dazzle.com
 127.0.0.1 www.kwai.com
 127.0.0.1 yx.chuangtanoperayeh8.pw
 127.0.0.1 shurufa.baidu.com
@@ -304,7 +310,7 @@
 127.0.0.1 zuimeia.com
 127.0.0.1 img03.sogoucdn.com
 127.0.0.1 m.vip.youku.com
-127.0.0.1 misc.live.xunlei.com
+127.0.0.1 jiuwo.xunlei.com
 127.0.0.1 img04.sogoucdn.com
 127.0.0.1 cms.laifeng.com
 127.0.0.1 m.iy.com.cn
@@ -324,6 +330,7 @@
 127.0.0.1 ad.caiyunapp.com
 127.0.0.1 cdnkpp.wuhubgy.com
 127.0.0.1 h5.jielema.com
+127.0.0.1 jake.mkxs.com
 127.0.0.1 im.520bangong.com
 127.0.0.1 admin.xiehoubao.com
 127.0.0.1 www.shengshuge.com
@@ -355,7 +362,7 @@
 127.0.0.1 dl.k.sogou.com
 127.0.0.1 img.jiuwo.kanimg.com
 127.0.0.1 static.d.com.cn
-127.0.0.1 fq.1116.dddmf.com.cn
+127.0.0.1 u.155.com
 127.0.0.1 16889999.com
 127.0.0.1 1479222003388.keptirim.com
 127.0.0.1 h5.live.xunlei.com
@@ -469,6 +476,7 @@
 127.0.0.1 q.dmzj.com
 127.0.0.1 tp.wsd163.net
 127.0.0.1 www.ylz056.com
+127.0.0.1 tj.910app.com
 127.0.0.1 alcdn.img.xiaoka.tv
 127.0.0.1 www.dacaiqi.com
 127.0.0.1 gg.js-7727.com
@@ -527,11 +535,11 @@
 127.0.0.1 m.fang.com
 127.0.0.1 www.datanghongcha.com
 127.0.0.1 www.jj.cn
-127.0.0.1 www.xiaoniu88.com
+127.0.0.1 javplay.com
 127.0.0.1 vip.iqiyi.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 mei.tu87.cn
-127.0.0.1 m.kloonn.com
+127.0.0.1 finance.gucheng.com
 127.0.0.1 szzero.livechatvalue.com
 127.0.0.1 www.luluse7.com
 127.0.0.1 bk.downloadtpt.qqlive.qq.com
@@ -625,6 +633,7 @@
 127.0.0.1 www.tiebaidu.top
 127.0.0.1 www.sgamer.com
 127.0.0.1 down.apps.sina.cn
+127.0.0.1 campaign.49yu.com
 127.0.0.1 alertserver.ushaqi.com
 127.0.0.1 f3.1024xv.com
 127.0.0.1 win.95049.net
@@ -762,12 +771,14 @@
 127.0.0.1 ctimg.mg3721.com
 127.0.0.1 m.fanli.com
 127.0.0.1 m1.chnskin-yz.com
+127.0.0.1 static.kuai8.com
 127.0.0.1 hao.360.cn
 127.0.0.1 avalley.avtime.tv
 127.0.0.1 k9anf8bc.webcam
 127.0.0.1 img19.niuza.com
-127.0.0.1 jiuwo.xunlei.com
+127.0.0.1 download.9133.com
 127.0.0.1 scan.call.f.360.cn
+127.0.0.1 mo.baidu.com
 127.0.0.1 ab.hbchty.com
 127.0.0.1 www.6625c.com
 127.0.0.1 www.kuaiya.cn
@@ -798,6 +809,7 @@
 127.0.0.1 ok3tutvk0.bkt.clouddn.com
 127.0.0.1 s.shbywsd.cn
 127.0.0.1 www.xfwed.com
+127.0.0.1 web.moxiulive.com
 127.0.0.1 gg.v-6625.com
 127.0.0.1 tags.growingio.com
 127.0.0.1 apipool.zhugeio.com
@@ -829,6 +841,7 @@
 127.0.0.1 www.niuza.com
 127.0.0.1 m.meilele.com
 127.0.0.1 dl.ops.baidu.com
+127.0.0.1 yiqi.whpxy.com
 127.0.0.1 cmdump.upload.duba.net
 127.0.0.1 api-shoulei-ssl.xunlei.com
 127.0.0.1 www.fjwl-ty.cn
@@ -852,6 +865,7 @@
 127.0.0.1 sdk.wscdns.com
 127.0.0.1 s1.twcount.com
 127.0.0.1 bbs.comicdd.com
+127.0.0.1 adsense.html5.qq.com
 127.0.0.1 app.2345.cn
 127.0.0.1 s4.cnzz.com
 127.0.0.1 static2.iduobao.net
@@ -948,6 +962,7 @@
 127.0.0.1 s.nxrxt.com
 127.0.0.1 nvzhuang.tmall.com
 127.0.0.1 api.itaoxiaoshuo.com
+127.0.0.1 misc.live.xunlei.com
 127.0.0.1 ecovacssjm.m.tmall.com
 127.0.0.1 www.bmwen.com
 127.0.0.1 ojkoyq1a6.qnssl.com
@@ -998,6 +1013,7 @@
 127.0.0.1 a.mgtv.com
 127.0.0.1 i0.webgame.kanimg.com
 127.0.0.1 s.cooolyi.cn
+127.0.0.1 tu.kuai8.com
 127.0.0.1 838457.yc-door.com
 127.0.0.1 baobao.baidu.com
 127.0.0.1 www.hexieebank.com
