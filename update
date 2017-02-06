@@ -1,7 +1,14 @@
+#Ps:带有"✩"为选用域名，一般不会直接加入hosts订阅源.
+
+【02,06】
+#恶意网站&H网站
+ 新增
+
 【02,02】
 #百度
  #推广
   static.yximgs.com
+  clickserve.dartsearch.net
 
 
 【01,29】
@@ -10,7 +17,7 @@
   
 【01,27】
 #微云
- #※启动页广告 
+ #✩启动页广告 
   qzonestyle.gtimg.cn
 
 #White#
@@ -266,6 +273,7 @@
 //域名屏蔽
 #淘小说
   game.itaoxiaoshuo.com
+  book.img.ireader.com
 
 【11,09】
 #百度
@@ -311,7 +319,7 @@
 
 【9,19】
 #过滤广告
- #新浪微博图片相关
+ #✩新浪微博图片相关
   ww2.sinaimg.cn
   ww3.sinaimg.cn
   ww1.sinaimg.cn
