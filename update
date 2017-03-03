@@ -1,5 +1,40 @@
 #Ps:带有"✩"为选用域名，一般不会直接加入hosts订阅源.
 
+【03,03】
+#MIUI
+  data.game.xiaomi.com
+  bbs.game.xiaomi.com
+  game.xiaomi.com
+  gamevip.wali.com
+  jfapi.migc.wali.com
+  m.500.com
+  new.api.ad.xiaomi.com
+  ppurifier.game.xiaomi.com
+  static.game.xiaomi.com
+ #浏览器
+  si1.go2yd.com
+  m.yidianzixun.com
+  www.qchannel03.cn
+  staticimg.yidianzixun.com
+  rl.go2yd.com
+
+【03,02】
+#MIUI
+  data.mistat.xiaomi.com
+  hot.browser.miui.com
+  o2o.api.xiaomi.com
+  a.stat.xiaomi.com
+  api.browser.miui.com
+ #应用商店
+  api.jr.mi.com
+  act.browser.miui.com
+  
+#百度
+  top.baidu.com
+  
+#其他
+  www.dyrh029.com
+  
 【02,10】
 #MIUI 
  #其他
