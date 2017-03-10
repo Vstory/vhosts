@@ -1,5 +1,11 @@
 #Ps:带有"✩"为选用域名，一般不会直接加入hosts订阅源.
 
+【03,10】
+#MIUI
+ #系统更新
+  update.miui.com
+ 
+
 【03,03】
 #MIUI
   data.game.xiaomi.com
@@ -17,6 +23,9 @@
   www.qchannel03.cn
   staticimg.yidianzixun.com
   rl.go2yd.com
+  
+#WiFi万能钥匙
+  √
 
 【03,02】
 #MIUI
