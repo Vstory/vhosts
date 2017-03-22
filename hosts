@@ -1,4 +1,4 @@
-#version=20170310P1314
+#version=20170322P2000
 #url=https://github.com/Vstory/vhosts
 #url=raw.githubusercontent.com/Vstory/vhosts/master/miuiAd
 #url=https://raw.githubusercontent.com/Vstory/vhosts/master/update
@@ -93,8 +93,9 @@
 127.0.0.1 a0.9898c.com
 127.0.0.1 www.lovetoytw.com
 127.0.0.1 t10.ahsllxs.com
+127.0.0.1 apihx-1252932755.cossh.myqcloud.com
 127.0.0.1 life.html5.qq.com
-127.0.0.1 qzzhkj.cn
+127.0.0.1 image.7niu.n0808.com
 127.0.0.1 www.dyrh029.com
 127.0.0.1 p1.gf517.net
 127.0.0.1 djl.duomai.com
@@ -105,6 +106,8 @@
 127.0.0.1 8.baidu.com
 127.0.0.1 www.cnnic.cn
 127.0.0.1 www.360doc.cn
+127.0.0.1 ay227.com
+127.0.0.1 wifiapi02.51y5.net
 127.0.0.1 wifi01.51y5.net
 127.0.0.1 leaflets.lianwifi.com
 127.0.0.1 e.e7009.com
@@ -183,6 +186,7 @@
 127.0.0.1 iospage.70km.net
 127.0.0.1 yg.c876.cc
 127.0.0.1 xinyongka.baidu.com
+127.0.0.1 www.51nail.com
 127.0.0.1 push-dc.51y5.net
 127.0.0.1 wap.faloo.com
 127.0.0.1 m.linghit.com
@@ -195,6 +199,7 @@
 127.0.0.1 c-hzgt2.getui.com
 127.0.0.1 open.yunpan.360.cn
 127.0.0.1 m.xiazailou.com
+127.0.0.1 www.xiacai.com
 127.0.0.1 www.gifshow.com
 127.0.0.1 cm.gcm.ksmobile.com
 127.0.0.1 s.129179.com
@@ -223,7 +228,7 @@
 127.0.0.1 zhanhun-regeng01.ks3-cn-shanghai.ksyun.com
 127.0.0.1 m.360.cn
 127.0.0.1 apk.3gsc.com.cn
-127.0.0.1 www.yeji22.com
+127.0.0.1 www.ad-safe.com
 127.0.0.1 mmbiz.qlogo.cn
 127.0.0.1 mq.kuangshiwang.com
 127.0.0.1 278179.yc-door.com
@@ -238,6 +243,7 @@
 127.0.0.1 www.qiqivoip.com
 127.0.0.1 m.lemall.com
 127.0.0.1 www.yirendai.com
+127.0.0.1 www.wsj666.com
 127.0.0.1 a99d.com
 127.0.0.1 wijsijhjla.hjtyangsheng.com
 127.0.0.1 detail.mall.meizu.com
@@ -248,6 +254,7 @@
 127.0.0.1 wap.fh21.com.cn
 127.0.0.1 dialer.cdn.cootekservice.com
 127.0.0.1 110823.erppos.cn
+127.0.0.1 9453talk.com
 127.0.0.1 www.84kl.com
 127.0.0.1 m.kloonn.com
 127.0.0.1 1.baidu.com
@@ -285,6 +292,7 @@
 127.0.0.1 dede.nthyfsz.com
 127.0.0.1 ellehomelighting.cn
 127.0.0.1 www.3v.do
+127.0.0.1 www.51.la
 127.0.0.1 www.9cp.cn
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 comment.51y5.net
@@ -337,7 +345,7 @@
 127.0.0.1 msapi.t.sohu.com
 127.0.0.1 wap.28.com
 127.0.0.1 www.bky6.com
-127.0.0.1 www.51.la
+127.0.0.1 cpu.baidu.com
 127.0.0.1 api.laifeng.com
 127.0.0.1 www.520it.com
 127.0.0.1 www.jac.com.cn
@@ -350,9 +358,10 @@
 127.0.0.1 ptd.youyuan.com
 127.0.0.1 p.mxplayer.j2inter.com
 127.0.0.1 mc.hujiang.com
-127.0.0.1 apihx-1252932755.cossh.myqcloud.com
+127.0.0.1 img.xtcake.com
 127.0.0.1 abc.521xg.com
 127.0.0.1 pv.kuaizhan.com
+127.0.0.1 uri6.com
 127.0.0.1 static.m.sjzhushou.com
 127.0.0.1 51findfriend.com
 127.0.0.1 www.qchannel03.cn
@@ -372,6 +381,7 @@
 127.0.0.1 www.ljw777.co
 127.0.0.1 www.tyc8522.com
 127.0.0.1 m.txtshu365.com
+127.0.0.1 tu.fjrjmy.com
 127.0.0.1 wowo.kilospeak.com
 127.0.0.1 m.alisinak.com
 127.0.0.1 res.yiyun.download.q-dazzle.com
@@ -397,6 +407,7 @@
 127.0.0.1 cms.laifeng.com
 127.0.0.1 m.iy.com.cn
 127.0.0.1 to.yocools.com
+127.0.0.1 www.27bao.com
 127.0.0.1 vns900500.com
 127.0.0.1 j.uniformcat.com
 127.0.0.1 llk10.com
@@ -424,7 +435,7 @@
 127.0.0.1 www.avtaobao.com
 127.0.0.1 www.shitangren.com
 127.0.0.1 m.365doc.net
-127.0.0.1 wifiapi02.51y5.net
+127.0.0.1 uum9.com
 127.0.0.1 4g.mengdian.com
 127.0.0.1 ebiz.viewlayer.cn
 127.0.0.1 act.browser.miui.com
@@ -468,6 +479,7 @@
 127.0.0.1 i3.go2yd.com
 127.0.0.1 847379.yc-door.com
 127.0.0.1 v.oq68.com
+127.0.0.1 509123.com
 127.0.0.1 other.d.ireader.com
 127.0.0.1 sale.jd.com
 127.0.0.1 www.yyy123.bid
@@ -516,10 +528,11 @@
 127.0.0.1 mall.youku.com
 127.0.0.1 k7788.cc
 127.0.0.1 sdjs.9c9v.com
-127.0.0.1 www.boxingyun4.com
+127.0.0.1 subject.m.sjzhushou.com
 127.0.0.1 www.tjqonline.cn
 127.0.0.1 618.tmall.com
 127.0.0.1 www.596111.com
+127.0.0.1 www.27bao.net
 127.0.0.1 m.fxfssl.com
 127.0.0.1 s1.kuaiya.cn
 127.0.0.1 sucimg.itc.cn
@@ -535,6 +548,7 @@
 127.0.0.1 d2.showself.com
 127.0.0.1 book.diyxjd.com
 127.0.0.1 2b2b.bestcycle.com.cn
+127.0.0.1 6zhnt.tao92.cn
 127.0.0.1 njtl.qizhongji114.com
 127.0.0.1 open.bmob.cn
 127.0.0.1 www.baofeng.com
@@ -594,6 +608,7 @@
 127.0.0.1 lu.shuiqingqing.net
 127.0.0.1 ectg.lnwyzyws.com
 127.0.0.1 u.lrswl.com
+127.0.0.1 qzzhkj.cn
 127.0.0.1 xl9.xunlei.com
 127.0.0.1 www.855rr.com
 127.0.0.1 q.dmzj.com
@@ -606,7 +621,9 @@
 127.0.0.1 log.s.sm.cn
 127.0.0.1 ajax.googleapis.com
 127.0.0.1 m.longtengxsw.com
+127.0.0.1 suez.baidu.com
 127.0.0.1 gifshow-static.download.ks-cdn.com
+127.0.0.1 mse.360.cn
 127.0.0.1 union.click.jd.com
 127.0.0.1 as.10xgl.com
 127.0.0.1 health.jeejen.com
@@ -615,6 +632,7 @@
 127.0.0.1 www.hao123.com
 127.0.0.1 sv.liangziweixg.com
 127.0.0.1 bizhi.sogou.com
+127.0.0.1 zt.automall.qq.com
 127.0.0.1 yktd.cm.cn.miaozhen.com
 127.0.0.1 e.qq.com
 127.0.0.1 905163.com
@@ -624,7 +642,7 @@
 127.0.0.1 www.yazhouse8.com
 127.0.0.1 www.battleofballs.com
 127.0.0.1 of19686rg.qnssl.com
-127.0.0.1 www.hasoffers.com
+127.0.0.1 pic.hui598.cn
 127.0.0.1 www.coolpad.com
 127.0.0.1 www.jvyoumei.com
 127.0.0.1 search.cds.51y5.net
@@ -632,6 +650,7 @@
 127.0.0.1 www.4399.com
 127.0.0.1 m.detuns.com
 127.0.0.1 e.hhly88.com
+127.0.0.1 show688.com
 127.0.0.1 tg.xyzs.com
 127.0.0.1 news.s9377.com
 127.0.0.1 a.manhuadao.cn
@@ -716,9 +735,11 @@
 127.0.0.1 www.22dfh.com
 127.0.0.1 bbs.voc.com.cn
 127.0.0.1 game.m.sohu.com
-127.0.0.1 www.yun-u.com
+127.0.0.1 se.360.cn
+127.0.0.1 www.olivephone.com
 127.0.0.1 s2.xiguaplayer.com
 127.0.0.1 www.77aax.com
+127.0.0.1 wxb.1688.com
 127.0.0.1 a.ruansky.com
 127.0.0.1 wap.qxzichan.com
 127.0.0.1 m.baifubao.com
@@ -731,6 +752,7 @@
 127.0.0.1 login.push.51y5.net
 127.0.0.1 rc.010xk.com
 127.0.0.1 webapp.cbs.baidu.com
+127.0.0.1 a.hiphotos.baidu.com
 127.0.0.1 api2.adsmogo.org
 127.0.0.1 mou.niu.xunlei.com
 127.0.0.1 dn-growing.qbox.me
@@ -748,7 +770,7 @@
 127.0.0.1 www.8k018.com
 127.0.0.1 www.ashleyrnadison.com
 127.0.0.1 yx.anfeng.cn
-127.0.0.1 wxb.1688.com
+127.0.0.1 www.boxingyun4.com
 127.0.0.1 www.tctrend.com
 127.0.0.1 crtl.322927.com
 127.0.0.1 ci.csefaazc.net
@@ -758,7 +780,9 @@
 127.0.0.1 api2.adsmogo.mobi
 127.0.0.1 qianbao.zgdfhw.cn
 127.0.0.1 m.video.so.com
+127.0.0.1 xpjvip.bet
 127.0.0.1 2222954.com
+127.0.0.1 stf77.com
 127.0.0.1 m.sogou.com
 127.0.0.1 www.talkingdata.com
 127.0.0.1 api.ad.xiaomi.com
@@ -776,8 +800,8 @@
 127.0.0.1 95lolita.com
 127.0.0.1 m.szxpsg.com
 127.0.0.1 sysimages.tq.cn
-127.0.0.1 c.ggtg001.com
-127.0.0.1 zt.automall.qq.com
+127.0.0.1 iimovie.cc
+127.0.0.1 mvp111.com
 127.0.0.1 www.misswen.xyz
 127.0.0.1 ping.xlmc.sandai.net
 127.0.0.1 ins.adsmogo.org
@@ -798,6 +822,7 @@
 127.0.0.1 down.apps.sina.cn
 127.0.0.1 campaign.49yu.com
 127.0.0.1 alertserver.ushaqi.com
+127.0.0.1 www.509123.com
 127.0.0.1 f3.1024xv.com
 127.0.0.1 vip.yzly8.com
 127.0.0.1 win.95049.net
@@ -860,6 +885,7 @@
 127.0.0.1 hot.browser.miui.com
 127.0.0.1 action.data.pplive.com
 127.0.0.1 tubie.bthengyuan.com
+127.0.0.1 olb899rmj.bkt.clouddn.com
 127.0.0.1 m2dj2gdt.liu3623.cn
 127.0.0.1 kc19.cn
 127.0.0.1 miaosha.taobao.com
@@ -934,7 +960,7 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 s94.cnzz.com
 127.0.0.1 avav.faruanjian.com
-127.0.0.1 www.lalaxi.cc
+127.0.0.1 showmov.cc
 127.0.0.1 m.ximalaya.com
 127.0.0.1 www.2079m.com
 127.0.0.1 static.fh21.com.cn
@@ -958,7 +984,7 @@
 127.0.0.1 rou.ldklink.com
 127.0.0.1 www.yhd.com
 127.0.0.1 st.360buyimg.com
-127.0.0.1 xpjvip.bet
+127.0.0.1 www.hasoffers.com
 127.0.0.1 tb.53kf.com
 127.0.0.1 hghg3.ytkxgm.com
 127.0.0.1 e2.9cp1.com
@@ -1007,7 +1033,9 @@
 127.0.0.1 rtmp.stream2.show.xunlei.com
 127.0.0.1 jxqy.qq.com
 127.0.0.1 file.fh21.com.cn
+127.0.0.1 www.lalaxi.cc
 127.0.0.1 trtyrty.ayinpola.com
+127.0.0.1 m.27bao.net
 127.0.0.1 ss.local-sex-hookup.com
 127.0.0.1 pinpai9.com
 127.0.0.1 gamevip.wali.com
@@ -1016,6 +1044,7 @@
 127.0.0.1 liuliang.duoqu124.com
 127.0.0.1 cm.admaster.com.cn
 127.0.0.1 app.hx400.net
+127.0.0.1 dlied5.myapp.com
 127.0.0.1 ls.namemek.com
 127.0.0.1 aa98.cc
 127.0.0.1 touch.qunar.com
@@ -1024,6 +1053,7 @@
 127.0.0.1 w40.myzcm.com
 127.0.0.1 ok3tutvk0.bkt.clouddn.com
 127.0.0.1 xmlpull.org
+127.0.0.1 www.yun-u.com
 127.0.0.1 abroad.apilocate.amap.com
 127.0.0.1 s.shbywsd.cn
 127.0.0.1 www.xfwed.com
@@ -1032,7 +1062,9 @@
 127.0.0.1 tags.growingio.com
 127.0.0.1 apipool.zhugeio.com
 127.0.0.1 c.shbywsd.cn
+127.0.0.1 m.51nail.com
 127.0.0.1 www.choubaobao.net
+127.0.0.1 c.ggtg001.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 issuecdn.baidupcs.com
 127.0.0.1 www.xmrxmgl.com
@@ -1040,6 +1072,7 @@
 127.0.0.1 i1.webgame.kanimg.com
 127.0.0.1 d.huobaotv.cc
 127.0.0.1 img.freeaswind.cn
+127.0.0.1 static.jinjiang.com
 127.0.0.1 d.pceggs.com
 127.0.0.1 sadomi.com
 127.0.0.1 tiantang.ml
@@ -1052,7 +1085,7 @@
 127.0.0.1 pstatic.xunlei.com
 127.0.0.1 www.yh558866.com
 127.0.0.1 www.8855vns.com
-127.0.0.1 subject.m.sjzhushou.com
+127.0.0.1 gtv369.com
 127.0.0.1 www.zuanke8.com
 127.0.0.1 www.hgw2166.com
 127.0.0.1 www.am181.com
@@ -1107,7 +1140,7 @@
 127.0.0.1 96lolita.com
 127.0.0.1 www.lianwifi.com
 127.0.0.1 appcdn.ywhqq9.com
-127.0.0.1 baidu.app.hao419.com
+127.0.0.1 js.xtcake.com
 127.0.0.1 www.aitu8.cc
 127.0.0.1 www.9927zzz.com
 127.0.0.1 cp.mi.com
@@ -1118,6 +1151,7 @@
 127.0.0.1 www.vnsr6625.com
 127.0.0.1 qqcdn.00xs.cc
 127.0.0.1 www.so.com
+127.0.0.1 m.uu669.com
 127.0.0.1 share.j.cn
 127.0.0.1 down5.6kw.com
 127.0.0.1 cod.uniformcat.com
@@ -1241,8 +1275,9 @@
 127.0.0.1 111701.jiankangdianziyan.net
 127.0.0.1 taoxiaoshuo.tuitools.cn
 127.0.0.1 wwwimg.zg71.com
-127.0.0.1 6zhnt.tao92.cn
+127.0.0.1 chrome.360.cn
 127.0.0.1 ggxx.jsmwd.com
+127.0.0.1 baidu.app.hao419.com
 127.0.0.1 www.lawen2.org
 127.0.0.1 ay277.com
 127.0.0.1 p19.qhimg.com
@@ -1257,11 +1292,11 @@
 127.0.0.1 www.7mav.org
 127.0.0.1 cmbackup.ksmobile.net
 127.0.0.1 m.ljw777.co
-127.0.0.1 image.7niu.n0808.com
 127.0.0.1 www.cdz01.info
 127.0.0.1 uu636.com
 127.0.0.1 ppco.trwba.com
 127.0.0.1 xindong-res.b0.upaiyun.com
+127.0.0.1 www.yeji22.com
 127.0.0.1 www.mob.com
 127.0.0.1 log.wx.zongheng.com
 127.0.0.1 ggtp.64ri.com
@@ -1311,7 +1346,7 @@
 127.0.0.1 sc.010xk.com
 127.0.0.1 css3.glmmch.com
 127.0.0.1 www.317av.com
-127.0.0.1 static.jinjiang.com
+127.0.0.1 m.ad-safe.com
 127.0.0.1 iwan.qq.com
 127.0.0.1 dl2.jilintianyu.com
 127.0.0.1 mi.kureader.com
@@ -1327,6 +1362,7 @@
 127.0.0.1 zsiss.cn
 127.0.0.1 s3a.bytecdn.cn
 127.0.0.1 cpsops.jzyx.com
+127.0.0.1 love913.com
 127.0.0.1 3g.ganji.com
 127.0.0.1 apk.leisou.net
 127.0.0.1 b.if1512.com
