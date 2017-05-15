@@ -1,4 +1,4 @@
-#version=20170410P2229
+#version=20170515P2228
 #url=https://github.com/Vstory/vhosts
 #url=raw.githubusercontent.com/Vstory/vhosts/master/miuiAd
 #url=https://raw.githubusercontent.com/Vstory/vhosts/master/update
@@ -508,6 +508,7 @@
 127.0.0.1 contents.igaworks.com
 127.0.0.1 dxurl.cn
 127.0.0.1 trackcommon.hujiang.com
+127.0.0.1 m.360.com
 127.0.0.1 gin.28cjs.com
 127.0.0.1 www.7mav.net
 127.0.0.1 m.browser.baidu.com
@@ -1335,6 +1336,7 @@
 127.0.0.1 chrome.360.cn
 127.0.0.1 bbt67g.com
 127.0.0.1 ggxx.jsmwd.com
+127.0.0.1 youxi.blkj1.com
 127.0.0.1 kkm62.com
 127.0.0.1 baidu.app.hao419.com
 127.0.0.1 www.lawen2.org
@@ -1352,6 +1354,7 @@
 127.0.0.1 www.7mav.org
 127.0.0.1 cmbackup.ksmobile.net
 127.0.0.1 m.ljw777.co
+127.0.0.1 www.gao4.com
 127.0.0.1 www.cdz01.info
 127.0.0.1 uu636.com
 127.0.0.1 ppco.trwba.com
