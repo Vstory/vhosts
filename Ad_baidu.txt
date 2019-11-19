@@ -1,5 +1,5 @@
-# X浏览器专用规则文件-百度广告_by萌主
-# Updata: 2019/11/19 23:53
+! # X浏览器专用规则文件-百度广告_by萌主
+! # Updata: 2019/11/19 23:53
 fclick.baidu.com
 ada.baidu.com
 baidu.com##DIV[class='voice call']
