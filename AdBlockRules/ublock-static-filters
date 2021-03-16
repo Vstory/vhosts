@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: UBO自定义静态过滤器
 ! Version: 2020/03/23
-! url=https://visx.coding.net/p/vhosts
+
 
 ! 腾讯视频 https://v.qq.com
 v.qq.com##.txp_btn_popup.txp_btn
@@ -48,6 +48,8 @@ www.douyu.com##.player-dialog
 www.douyu.com##.GameDownload-fl.GameDownload
 www.douyu.com##.intimateTaskUserBox
 www.douyu.com##.normalDiv-8b686d
+! ##手游推荐 https://www.douyu.com
+www.douyu.com##.GameDownload-codeBox
 ! ##分享直播间 https://www.douyu.com
 www.douyu.com##.TitleShare-shareBox
 ! ##亲密互动 https://www.douyu.com
@@ -58,90 +60,107 @@ www.douyu.com##.bg-d4758b
 www.douyu.com##.recommendApp-0e23eb
 ! ##宝箱 https://www.douyu.com
 www.douyu.com##.is-ready.Treasure
-! ##鱼塘 https://www.douyu.com
+! ## 鱼塘 https://www.douyu.com
 www.douyu.com##.FishpondTreasure-icon
-! ##首冲豪礼 https://www.douyu.com
+! ## 首冲豪礼 https://www.douyu.com
 www.douyu.com##.FirstRecharge
-! ##太空探险 https://www.douyu.com
+! ## 太空探险 https://www.douyu.com
 www.douyu.com##.TurntableLottery
-! ##签到可得 https://www.douyu.com
+! ## 签到可得 https://www.douyu.com
 www.douyu.com##.ActivityBtn-cont
-! ##幸运宝藏 https://www.douyu.com
+! ## 幸运宝藏 https://www.douyu.com
 www.douyu.com##.LuckGiftEnter
-! ##任务 https://www.douyu.com
+! ## 任务 https://www.douyu.com
 www.douyu.com##.TaskIcon
-! ##房间等级 https://www.douyu.com
+! ## 房间等级 https://www.douyu.com
 www.douyu.com##.RoomLevelDetail
-! ##竞猜 https://www.douyu.com
+! ## 竞猜 https://www.douyu.com
 www.douyu.com##.GuessIcon
-! ##送礼物 I (礼物界面) https://www.douyu.com
+! ## 送礼物 I (礼物界面) https://www.douyu.com
 www.douyu.com##.PlayerToolbar
-! ##送礼物 II (toolbar) *不推荐，会导致默认小窗播放 https://www.douyu.com
+! ## 送礼物 II (toolbar) *不推荐，会导致默认小窗播放 https://www.douyu.com
 !www.douyu.com###js-player-toolbar
-! ##互动竞猜 I https://www.douyu.com
+! ## 互动竞猜 I https://www.douyu.com
 www.douyu.com##.is-normalRoom.guessGameContainer
-! ##互动竞猜 II (placeholder) https://www.douyu.com
+! ## 互动竞猜 II (placeholder) https://www.douyu.com
 www.douyu.com##.Bottom-guessGame-placeholder
-! ##送你双十一礼物 https://www.douyu.com
+! ## 送你双十一礼物 https://www.douyu.com
 www.douyu.com##.double11
-! ##年度总决赛 https://www.douyu.com
+! ## 年度总决赛 https://www.douyu.com
 www.douyu.com##.is-show.ActBase.Act163201
-! ##粉丝排行 https://www.douyu.com
+! ## 粉丝排行 https://www.douyu.com
 www.douyu.com##.FansRank
-! ##聊天排行 https://www.douyu.com
+! ## 聊天排行 https://www.douyu.com
 www.douyu.com##.ChatRank
-! ##福星挑战 https://www.douyu.com
+! ## 福星挑战 https://www.douyu.com
 www.douyu.com##.numIcon.LuckyStartEnter-IconWraper
-! ##斗鱼时光机 https://www.douyu.com
+! ## 斗鱼时光机 https://www.douyu.com
 www.douyu.com##.hasTM.timeMachine2019
-! ##特效礼物 https://www.douyu.com
+! ## 特效礼物 https://www.douyu.com
 www.douyu.com##.PrivilegeGiftModalDialog
-! ##新春礼物 https://www.douyu.com
+! ## 新春礼物 https://www.douyu.com
 www.douyu.com##.SpringCard2019
-! ##火力全开 https://www.douyu.com
+! ## 火力全开 https://www.douyu.com
 www.douyu.com##.FirePowerChatModal-Notice
-
+! ## 上场超级擂主 https://www.douyu.com
+www.douyu.com##.is-show.ActBase.Act186105
+! ## 粉丝节 Gif https://www.douyu.com
+www.douyu.com##.HeaderGif-left
+www.douyu.com##.HeaderGif-right
+! ## 全民乐PK https://www.douyu.com
+www.douyu.com##.is-show.ActBase.StaticAct
+! ##PK https://www.douyu.com
+www.douyu.com##.RandomPKBar-panel
+! 亲密互动 https://www.douyu.com
+www.douyu.com##.ChargeTask-normalDiv
+! 浪漫告白季 https://www.douyu.com
+www.douyu.com##.is-show.ActBase.Act5202020
+www.douyu.com##.Act520Tips
 
 
 
 ! 爱奇艺
-! ##PC客户端下载 https://www.iqiyi.com
+! ## PC客户端下载 https://www.iqiyi.com
 www.iqiyi.com###nav_appDown
 www.iqiyi.com##.qy-player-pca
 www.iqiyi.com##.func-download.func-item
 www.iqiyi.com##.header-download.header-sideItem
 ! https://so.iqiyi.com
 so.iqiyi.com##.mb20.search_result_download
-! ##送好礼 https://www.iqiyi.com
+! ## 送好礼 https://www.iqiyi.com
 www.iqiyi.com##.anchor-vip.anchor-list
-! ##添加网页应用 https://www.iqiyi.com
+! ## 添加网页应用 https://www.iqiyi.com
 www.iqiyi.com##.anchor-tianjia.anchor-list
-! ##开通ViP会员
+! ## 开通ViP会员
 www.iqiyi.com##.vip-btn
+! 游戏 https://www.iqiyi.com
+www.iqiyi.com##.qy-header__game.header-sideItem.T-drop-hover
+! 2021-03-16 https://www.iqiyi.com
+www.iqiyi.com##.qy-anchor-hongbao-box
 ! 2019/10/9 https://www.iqiyi.com
 www.iqiyi.com##.top.qy-popup-box
 so.iqiyi.com##.floaterPannel.top.qy-popup-box
-! ##叭哒下载
+! ## 叭哒下载
 www.iqiyi.com##.j_bada_container.qy-anime-qr-code
 
 
 ! 优酷 https://www.youku.com
-! ##PC客户端下载
+! ## PC客户端下载
 www.youku.com##.dropdown_3IYGs
 v.youku.com##.u-app_Ubbmj
 v.youku.com##.u-app
-! ##开通ViP会员 https://v.youku.com
+! ## 开通ViP会员 https://v.youku.com
 v.youku.com###vip_limit_box_side
-! ##下载视频
+! ## 下载视频
 v.youku.com###bpmodule-playpage-paction > .play-fn > .fn-download
-! ##手机、电脑下载视频 https://v.youku.com
+! ## 手机、电脑下载视频 https://v.youku.com
 v.youku.com##li.fn-phonewatch.play-fn-li:nth-of-type(3)
-! ##用手机看
+! ## 用手机看
 v.youku.com###bpmodule-playpage-paction > .play-fn > .fn-phonewatch
-! ##扫一扫，手机继续看 https://v.youku.com
+! ## 扫一扫，手机继续看 https://v.youku.com
 v.youku.com##.qr-wrap
 v.youku.com##.phone-watch-notice
-! ##顶部弹幕 https://v.youku.com
+! ## 顶部弹幕 https://v.youku.com
 v.youku.com##.dm_cs.dm-t.dm
 
 
@@ -149,13 +168,14 @@ v.youku.com##.dm_cs.dm-t.dm
 baike.baidu.com##.rightAd-link
 
 
-! #VCB-Studio分享论坛
-! ##VCB-Studio分享论坛 右下角浮窗(关注微信公众号) http://bbs.vcb-s.com
+! # VCB-Studio分享论坛
+! ## VCB-Studio分享论坛 右下角浮窗(关注微信公众号) http://bbs.vcb-s.com
 bbs.vcb-s.com###hzw_showmsg
 
 ! 腾讯微云 https://www.weiyun.com
-! #离线下载 违法警告
+! # 离线下载 违法警告
 www.weiyun.com##.modal-dialog-tips.modal-dialog
+
 
 
 ! QQ邮箱 https://mail.qq.com
@@ -164,8 +184,15 @@ mail.qq.com###folder_129_td
 
 
 ! 哔哩哔哩 https://live.bilibili.com
-! #直播间滚动广告
+! # 直播间滚动广告
 live.bilibili.com##.w-100.over-hidden.p-relative.flip-view
+! 绝杀 https://live.bilibili.com
+live.bilibili.com##div.p-absolute.chaos-pk-result-ctnr:nth-of-type(1) > .common-popup-wrap
+! 哔哩哔哩 页面净化 https://www.bilibili.com
+www.bilibili.com##.van-popover__reference.loc-moveclip.link
+www.bilibili.com##li.nav-link-item:nth-of-type(7)
+www.bilibili.com##li.nav-link-item:nth-of-type(3)
+www.bilibili.com##li.nav-link-item:nth-of-type(9)
 
 ! 2020/2/23 https://www.right.com.cn
 www.right.com.cn##h2
@@ -173,3 +200,26 @@ www.right.com.cn##h2
 
 !# [药方] 查看原图
 @@|blob:$popup,domain=weibo.com
+
+
+!# [YouTube 本地下载器] 正常下载
+@@||www.youtube.com/get_video_info?*=detailpage$xhr,domain=youtube.com
+
+
+! 米坛社区
+! ##浮窗 https://www.bandbbs.cn
+www.bandbbs.cn##.js-notices.notices--isMulti.notices--floating.notices
+www.bandbbs.cn##.js-notices.notices--isMulti.notices--bottom_fixer.notices > .notice--hasImage.notice--accent.js-notice.notice
+www.bandbbs.cn##.js-notices.notices--isMulti.notices--bottom_fixer.notices
+www.bandbbs.cn##.js-bottomFixTarget.u-bottomFixer
+
+
+! https://www.twitch.tv
+! Prime Subscription and Loot Remin
+www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
+! # Prime Gaming 宝物
+www.twitch.tv##.tw-relative.prime-offers
+
+! 2021-02-10 https://juejin.cn
+juejin.cn##.extension
+
