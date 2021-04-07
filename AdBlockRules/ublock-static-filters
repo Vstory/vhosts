@@ -194,7 +194,7 @@ www.bilibili.com##li.nav-link-item:nth-of-type(7)
 www.bilibili.com##li.nav-link-item:nth-of-type(3)
 www.bilibili.com##li.nav-link-item:nth-of-type(9)
 ! https://www.bilibili.com 播放弹窗 收藏、点赞等
-bilibili.com##.bilibili-player-video-popup
+www.bilibili.com##.bilibili-player-video-popup
 ! 会员购
 www.bilibili.com##li.nav-link-item:nth-of-type(5)
 
