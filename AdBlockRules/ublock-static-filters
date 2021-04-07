@@ -1,7 +1,7 @@
 ! Title: uBlock Origin 自定义规则
 ! Description: 使用 uBlock Origin 自定义规则
 ! Version: 1.0
-! TimeUpdated: 2021-04-07T09:34:46
+! TimeUpdated: 2021-04-07T09:53:40
 
 ! 腾讯视频 https://v.qq.com
 v.qq.com##.txp_btn_popup.txp_btn
@@ -194,10 +194,9 @@ www.bilibili.com##li.nav-link-item:nth-of-type(7)
 www.bilibili.com##li.nav-link-item:nth-of-type(3)
 www.bilibili.com##li.nav-link-item:nth-of-type(9)
 ! https://www.bilibili.com 播放弹窗 收藏、点赞等
-www.bilibili.com##.bilibili-player-video-popup
+bilibili.com##.bilibili-player-video-popup
 ! 会员购
 www.bilibili.com##li.nav-link-item:nth-of-type(5)
-
 
 ! 2020/2/23 https://www.right.com.cn
 www.right.com.cn##h2
@@ -227,4 +226,6 @@ www.twitch.tv##.tw-relative.prime-offers
 
 ! 2021-02-10 https://juejin.cn
 juejin.cn##.extension
+
+
 
