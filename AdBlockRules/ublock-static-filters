@@ -195,6 +195,8 @@ www.bilibili.com##li.nav-link-item:nth-of-type(3)
 www.bilibili.com##li.nav-link-item:nth-of-type(9)
 ! https://www.bilibili.com 播放弹窗 收藏、点赞等
 www.bilibili.com##.bilibili-player-video-popup
+! 会员购
+www.bilibili.com##li.nav-link-item:nth-of-type(5)
 
 
 ! 2020/2/23 https://www.right.com.cn
